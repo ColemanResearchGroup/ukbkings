@@ -324,4 +324,3 @@ dependencies:
   - libgcc-ng
   - libgoogle-cloud
   - _r-mutex
-prefix: /users/k1342162/apps/miniconda3/envs/ukbkings
